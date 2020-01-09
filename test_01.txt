@@ -1,0 +1,12 @@
+./oop_exercise_08 3
+Add
+Rec  0 0  3 0  3 5  0 5
+Trapeze 0 0  4 0  3 5  1 5
+Rhomb -2 0  0 -5  2 0 0 5
+
+Menu
+Add
+Rec 5 5  10 5  10 10  5 10
+Rhomb 0 0  2 -3  4 0  2 3
+Rec 0 0 3 0 3 2 0 2
+Exit
